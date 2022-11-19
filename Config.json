@@ -1,1 +1,31 @@
-4vl1hM7QHZflCcrL1EAwzZlJxMvQWX9grV+n251XZyyrA0OqWE7Ps3dFJY17kEoEA0AMOHQYTSp023hdzfWNmnC0gWcyXjavFTB8IXy9GbJyXme+AS3Xh2btxjvW3Xzkc1FuFw8DKz1s2rxsGgEEpSifYrxKtdYJmNGgkJO0Q1PZ4OVmDUpSHWPcBIzlrRMM9t0DA4XlrnRVnCvMMlDUd7Zk29Na2i9zZybbs2ZhdQ7pj2SfNjBwwE95vtKOTVhaA4NTX70tKvXN6FnYWy+MxRPKszNsq2QTUo/sfSBc30NnArxm9EdmRbqUvW/w9wasfsSVHw5e9nqO40/FgQfm55HeNNMjJoqU5lqbTTVbl3xPMysG4X6FroqitPHIeDQBiWbxEqsoq+6zel32qyaAdTZBLR4SsgSKoVBESKvUwGNWZkg3ffPrnwMCFZDIRBWmfnODWuxEnTqmhUA3fivVCsvrWM8hmhSr5ygWUNua+vG7QG/xgTKVZf9ND+tI0ubh/QBtCA1yMtSpy+I0tGS1urvKjXK8rXKy/mJS3ElUb20iLP0t4td55kRf/dUgTomL4uG8XBSaVN78uHNoT/ZWI0pH196t2FDvYTblGIqa73hI5p2K6g+JuL5CejwwTSSoo2DN9qtWkgNkFUwUCpETnw5vJjn51f8LxFVvvatJRK5WLQRGd0b+u8lUxeN/NXTsD9GlSwBxrEnuOzERLIw1iiwKXLOKOQd83KuSbQ4uV0GxX7cV0BjPnaDHhNN5CFV9ipUoxgAtKCu/m94RmDhLPOZd+Gu+mJvfkw6khBDtFQDgJm/I8uj7fDWvpbKsHQ4vfmjkIqpdJ1rUZir6QvvDl9+mX9nyH4/XIW0H4zcS/Ke6ZhOnpWSNPMVq+/nk+SSIqREc9vn7aEA4IPHuEuAEPlXIYU2pKwZYgzDoqU+mlTNgL2BgpnYAaxJayqn9bnILayUbu5z92RM4hS1A/5oXoab7zsN6I6fmujKXSl37urQQNP4Jux/49McNsw8XGwsc4qzYl68HpbVLRFsP6FmyOJorJiylJDKe1dALgLKgqYrdqmx2+vBKyHVXX71TN8Ww1pWlvUloILgBAKTjq6/1+wUPwMQqqzhTWj3hCMkL3TIO18di85bxq04PCqMGTLaAl4Os/vSQTrR3RSjk0v7JYoRvHsQOdP69TCAweuSEOV4+vhUGDUoo7ofrRapWZdM9LhiMdClRuMrDd7G/EeRxA0dt91d91TCKPPt8zGSs6qIpdAMpELULa0gzDUs9IdqkpU6hEvXGRe/wEjspPEKdfp68ud90eHt5UCxU+DPGPEiKyoD3qfdoZDI0KoE2Z1ih
+{
+    "Version": "1.0.10",
+    "ReleaseNotes": "🆕UPDATE🆕\n\n📅3 November 2022📅\n\n\n🏷️Server ✅\n🏷️No Ads ✅\n🏷️No Sniff ✅\n\n👇Chat Admin👇\n\n📌WA : 085732801870📌\n\n⚠️Sebelum Pancal, Pilih Metode Sesuai Judul Paket Data, Jika Sunnek Harap Mode Pesawat Dulu⚠️\n\n📛Enjoy Mod Apk Ficky.S📛",
+    "Sms": "",
+    "UrlUpdate": "https://bitbin.it/7aa9zoEq/raw/",
+    "EmailFeedback": "",
+    "UrlContato": "",
+    "UrlTermos": "",
+    "CheckUser": "true",
+    "Udp": [
+        {
+            "Port": "7300"
+        }
+    ],
+  "Servers": [
+ {
+  "Name": "Servidor 01",
+  "FLAG": "sg.png",
+  "ServerIP": "sg01.vpnhack.xyz",
+  "ServerPort": "443",
+  "SSLPort": "",
+  "ProxyIP": "web.poe.garena.com:,
+  "ProxyPort": "80",
+  "ServerUser": "vpnhack-rebahan88",
+  "ServerPass": "rebahan88",
+  "TunnelType": "0,
+  "Payload": "GET ws://web.poe.garena.com/ HTTP/1.1[crlf]Host: [host_port] [crlf]Upgrade: websocket[crlf][crlf]",
+  "Info": "Power By Ficky.S"
+  }
+ ]
+}
